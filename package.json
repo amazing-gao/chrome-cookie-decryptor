@@ -1,6 +1,6 @@
 {
   "name": "chrome-cookie-decryptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chrome cookie encrypted_value decryptor",
   "keywords": [
     "chrome",
